@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/ping.wav</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/ping_left.wav</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/ping_right.wav</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/FONTS/font12.spritefont</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/FONTS/font14.spritefont</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/FONTS/font16.spritefont</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/FONTS/font18.spritefont</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/FONTS/font20.spritefont</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/FONTS/font22.spritefont</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/FONTS/font24.spritefont</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/FONTS/font26.spritefont</File>
+    <File>J:/ToGitHub/WoodenPong/WoodenPong 1.0/WoodenPong/WoodenPong/Content/SONGS/Veorra &amp; The Tech Thieves Ghost Town.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

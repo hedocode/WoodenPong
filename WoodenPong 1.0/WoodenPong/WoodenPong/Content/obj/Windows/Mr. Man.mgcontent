@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/ToGitHub/WoodenPong 1.0/WoodenPong/WoodenPong/Content/Mr. Man.mp3</SourceFile>
+  <SourceTime>2016-05-25T20:09:26+02:00</SourceTime>
+  <DestFile>F:/ToGitHub/WoodenPong 1.0/WoodenPong/WoodenPong/Content/bin/Windows/Mr. Man.xnb</DestFile>
+  <DestTime>2016-11-22T09:00:30+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>F:/ToGitHub/WoodenPong 1.0/WoodenPong/WoodenPong/Content/bin/Windows/Mr. Man.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
