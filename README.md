@@ -1,7 +1,7 @@
 # WoodenPong
-###A simple Pong game.
+### A simple Pong game.
 
-####My first MonoGame Game.
+#### My first MonoGame Game.
 This game have some bugs, but i'm working on others projects right now.<br>
 Collisions must be bugged, but they currently can handle a very high ball velocity.<br>
 However, at a supersonic speed, the ball still can go throught the paddles.<br>
@@ -11,9 +11,9 @@ I sometimes did come back to this code to fix some bugs, and to test new functio
 menu with buttons, EventsListeners, Display Fullscreen (at current device maxResolution) , Opacity etc...<br>
 
 # PongEnBois
-###Un simple jeu de type "Pong"
+### Un simple jeu de type "Pong"
 
-####Mon premier jeu codé avec MonoGame.
+#### Mon premier jeu codé avec MonoGame.
 Ce jeu possède quelques bogues, mais je travaille depuis sur d'autres project.<br>
 Les collissions sont elles aussi parfois boguée, mais elles peuvent gèrer une balle à grande vitesse.<br>
 Cependant, à une vitesse supersonique, la balle peut toujours aller à travers des raquettes.<br>
@@ -24,7 +24,7 @@ faire un menu composé de boutons avec des actions différentes, les EventListen
 l'opacité etc...
 
 
-###Controls
+### Controls
 
 * Left Paddle : 
   - Z = Up
@@ -36,7 +36,7 @@ l'opacité etc...
   - Down = Down
   - Ctrl Right = Shoot
 
-###Controles
+### Controles
 * Raquette Gauche : 
   - Z = Haut
   - S = Bas
